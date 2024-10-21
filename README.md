@@ -30,6 +30,5 @@ Throughout this project, I concentrated on:
 
 Comparative Analysis: Developing a report comparing key metrics before and after the 5G launch to uncover trends and insights.
 Data Visualization: Crafting engaging visualizations to help management easily interpret the findings.
-Additional Insights: Extracting further insights beyond standard metrics to inform strategic decisions.
 
 
